@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "springtestdemo",
+                "projectName": "springtestdemo",
+                "workingDirectory": "/Users/pravanjan/gitProject/springtestdemo",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "springtestdemo",
+                "projectName": "springtestdemo",
+                "workingDirectory": "/Users/pravanjan/gitProject/springtestdemo",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}

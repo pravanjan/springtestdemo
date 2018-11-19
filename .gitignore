@@ -3,4 +3,9 @@
 /.gradle
 /out
 /gradle
+/.project
+/.classpath
+/.settings
+/.vscode
+/bin
 
