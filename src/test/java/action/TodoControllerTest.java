@@ -57,7 +57,7 @@ public class TodoControllerTest {
     @Test
     public void createtaskTestfor_validating_status() throws Exception {
         this.mockMvc.perform(get("/todo/createtask/test/")).andExpect(status().is(200))
-                .andExpect(jsonPath("$.status").value(true));
+                .andExpect(jsonPath("$.status").value(false));
     }
 
 
